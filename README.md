@@ -8,20 +8,7 @@ This repository contains projects and practice set for Udacity AI Product Manage
 
 # Project Structure
 
-├── Project1
-│   ├── Instructions_Preview.html
-│   ├── project-proposal.pdf
-│   └── README.md
-├── Project2
-│   ├── automl-modeling-report.pdf
-│   └── README.md
-├── Project3
-│   ├── Capstone Project Proposal.pdf
-│   └── README.md
-├── img
-│   ├── Ai Product Manager BSF.png
-│   └── img-1.webp
-└── README.md
+  <img src="img/Project_str.png" alt="Project Structure" width="1000">
 
 # Project 1 : Create a Medical Image Annotation Job
 
