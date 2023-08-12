@@ -6,13 +6,30 @@
 
 This repository contains projects and practice set for Udacity AI Product Manager Nanodegree.
 
+# Project Structure
+
+├── Project1
+│   ├── Instructions_Preview.html
+│   ├── project-proposal.pdf
+│   └── README.md
+├── Project2
+│   ├── automl-modeling-report.pdf
+│   └── README.md
+├── Project3
+│   ├── Capstone Project Proposal.pdf
+│   └── README.md
+├── img
+│   ├── Ai Product Manager BSF.png
+│   └── img-1.webp
+└── README.md
+
 # Project 1 : Create a Medical Image Annotation Job
 
 This project involved designing a data labeling job on Appen's platform to create a labeled dataset of chest x-ray images that can be used to train a machine learning model to detect pneumonia in children. The dataset includes images of healthy and pneumonia-affected lungs, and the job instructions and example test questions are designed to help non-experts identify the symptoms of pneumonia. The project also discusses the design choices and methods for quality assurance that were used to create the dataset.
 
 ### Project Submission
 
-[Check My Project Submission]()
+[Check My Project Submission](https://github.com/alsubaie-os/Udacity-AI-Product-Manager-Nanodegree/tree/main/Project1)
 
 # Project 2 : Build a Model With AWS Rekognition
 
@@ -25,7 +42,7 @@ This project is designed to test your ability to:
 
 ### Project Submission
 
-[Check My Project Submission]()
+[Check My Project Submission](https://github.com/alsubaie-os/Udacity-AI-Product-Manager-Nanodegree/tree/main/Project2)
 
 # Project 3 : Create an AI Product Business Proposal
 
@@ -55,7 +72,7 @@ This project is about developing a business proposal for an AI product. We will 
 
 ### Project Submission
 
-[Check My Project Submission]()
+[Check My Project Submission](https://github.com/alsubaie-os/Udacity-AI-Product-Manager-Nanodegree/tree/main/Project3)
 
 # My Certificate of Completion
 
