@@ -6,7 +6,7 @@
 
 This repository contains projects and practice set for Udacity AI Product Manager Nanodegree.
 
-# Project Structure
+# Repository Structure
 
   <img src="img/Project_str.png" alt="Project Structure" width="1000">
 
